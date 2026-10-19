@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\frant\\.nuget\\packages\\": {}
+    "C:\\Users\\Agustín\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\frant\\OneDrive\\Desktop\\pandev\\Pandevs-panaderia\\Pandevs-panaderia.csproj",
+      "projectUniqueName": "C:\\Users\\Agustín\\Desktop\\Pandevs-panaderia\\Pandevs-panaderia.csproj",
       "projectName": "Pandevs-panaderia",
-      "projectPath": "C:\\Users\\frant\\OneDrive\\Desktop\\pandev\\Pandevs-panaderia\\Pandevs-panaderia.csproj",
-      "packagesPath": "C:\\Users\\frant\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\frant\\OneDrive\\Desktop\\pandev\\Pandevs-panaderia\\obj\\",
+      "projectPath": "C:\\Users\\Agustín\\Desktop\\Pandevs-panaderia\\Pandevs-panaderia.csproj",
+      "packagesPath": "C:\\Users\\Agustín\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Agustín\\Desktop\\Pandevs-panaderia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\frant\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Agustín\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
