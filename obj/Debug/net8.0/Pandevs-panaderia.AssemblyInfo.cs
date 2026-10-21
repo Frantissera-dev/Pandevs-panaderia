@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pandevs-panaderia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4dfe6313aef2ec40a2319bd07f8cff70c134a72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9332ce62b82ed14fc1b9b819e66fabeded15b8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pandevs-panaderia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pandevs-panaderia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
